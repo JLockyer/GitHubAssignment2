@@ -1,0 +1,1 @@
+Github is easy yet confusing. I need to fully understand the gitbash commands and pushing to github.
